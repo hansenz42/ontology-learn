@@ -1,5 +1,11 @@
 # 教程资源
 
+## 教程首页
+
+### 配图
+
+- [知识图谱标志](images/ontology-mark.png) · 用两条共享主语的三元组表示节点之间的关系，用于[教程首页](../README.md)。
+
 ## 第 0 章 · 课程说明
 
 [阅读正文](../00-course-overview/0-course-overview.md)
@@ -21,7 +27,7 @@
 - [Agent 开发说明](https://www.anthropic.com/engineering/building-effective-agents)
 - [长期任务中的 Harness 设计](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
-## 第 1 章 · 借书场景
+## 第 1 章 · 外部知识的组织与检索方法概览
 
 [阅读 1.1 借书场景](../01-how-existing-systems-organize-knowledge/1-1-borrowing-scenario.md)
 
