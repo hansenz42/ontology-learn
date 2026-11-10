@@ -37,8 +37,5 @@
 - [Agent 怎样回答借书问题](images/agent-library-query.svg) · 对照三个处理步骤，说明模型的常识和馆方资料分别怎样用于这次查询。
 - [Agent 处理借书请求的四个步骤](images/agent-request-steps.svg) · 配合[第 1.2 节](../01-how-existing-systems-organize-knowledge/1-2-source-materials.md)梳理从收到提问到给出答复的过程。
 - [馆方原件与周日闭馆时间](images/library-source-guide.svg) · 配合[第 1.2 节](../01-how-existing-systems-organize-knowledge/1-2-source-materials.md)对照四份模拟原件，并展开时间表 B。
-- [从馆方原件到可检索的片段](images/document-preprocessing.svg) · 配合[第 1.3 节](../01-how-existing-systems-organize-knowledge/1-3-rag-retrieval.md)说明资料预处理的五个步骤。
-
-### 工程资料
-
-- [片段上下文的工程实验](https://www.anthropic.com/research/contextual-retrieval) · 对照[第 1.3 节](../01-how-existing-systems-organize-knowledge/1-3-rag-retrieval.md)的分片示例，了解片段脱离原文后可能丢失哪些信息。
+- [手上已有的四份文档](images/library-document-set.svg) · 在[第 1.3 节](../01-how-existing-systems-organize-knowledge/1-3-document-preprocessing.md)展示入库前的四份馆方教学材料。
+- [四份馆方文档怎样入库](images/document-preprocessing.svg) · 配合[第 1.3 节](../01-how-existing-systems-organize-knowledge/1-3-document-preprocessing.md)说明从收集原件、按需分片到核对入库的五个步骤。
