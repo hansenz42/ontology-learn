@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 748" width="1000" height="748" role="img" aria-labelledby="title desc">
+<title id="title">四份馆方材料与两个馆区的周日闭馆时间</title>
+<desc id="desc">教学示例。上图列出主页、开放时间表、周末服务公告和办证指南。下图展开时间表 B，之江馆区周日 17:00 闭馆，曙光路馆区周日 18:00 闭馆。</desc>
+<style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#183747}.heading{font-size:32px;font-weight:700}.name{font-size:25px;font-weight:650}.body{font-size:21px}.meta{font-size:18px;fill:#465e65}.letter{font-size:21px;font-weight:bold;fill:white}</style>
+<rect width="1000" height="748" rx="18" fill="#faf8f1"/>
+<text x="32" y="55" class="heading">资料库里的四份原件</text><text x="965" y="52" text-anchor="end" class="meta">教学示例</text>
+<g transform="translate(32 82)"><rect width="461" height="167" rx="12" fill="white" stroke="#ccd7d4"/><rect x="18" y="17" width="36" height="35" rx="7" fill="#42687b"/><text x="36" y="42" text-anchor="middle" class="letter">A</text><text x="68" y="43" class="name">之江馆区主页</text><text x="20" y="77" class="meta">馆方网站 · “周末到馆”段</text>
+<text x="20" y="116" class="body">本馆周日开放。各柜台的办理时间</text>
+<text x="20" y="146" class="body">请查《周末服务公告》。</text>
+</g>
+<g transform="translate(507 82)"><rect width="461" height="167" rx="12" fill="white" stroke="#ccd7d4"/><rect x="18" y="17" width="36" height="35" rx="7" fill="#24675f"/><text x="36" y="42" text-anchor="middle" class="letter">B</text><text x="68" y="43" class="name">各馆开放时间表</text><text x="20" y="77" class="meta">11 月版 · 第 1 页</text>
+<text x="20" y="116" class="body">列出各馆区周日的闭馆时间。</text>
+<text x="20" y="146" class="body">本页内容在下图展开。</text>
+</g>
+<g transform="translate(32 263)"><rect width="461" height="167" rx="12" fill="white" stroke="#ccd7d4"/><rect x="18" y="17" width="36" height="35" rx="7" fill="#965124"/><text x="36" y="42" text-anchor="middle" class="letter">C</text><text x="68" y="43" class="name">周末服务公告</text><text x="20" y="77" class="meta">11 月 12 日发布 · 第 1 段</text>
+<text x="20" y="116" class="body">11 月 15 日，之江馆区借阅柜台于</text>
+<text x="20" y="146" class="body">16:30 停止受理借阅，当天闭馆时间照常。</text>
+</g>
+<g transform="translate(507 263)"><rect width="461" height="167" rx="12" fill="white" stroke="#ccd7d4"/><rect x="18" y="17" width="36" height="35" rx="7" fill="#42687b"/><text x="36" y="42" text-anchor="middle" class="letter">D</text><text x="68" y="43" class="name">之江馆区办证指南</text><text x="20" y="77" class="meta">11 月版 · “成人首次办证”条</text>
+<text x="20" y="116" class="body">请携带本人有效身份证件原件</text>
+<text x="20" y="146" class="body">至服务台办理。</text>
+</g>
+<rect x="32" y="453" width="936" height="269" rx="14" fill="#e6f1ed"/>
+<text x="55" y="502" class="heading">B 中的两个馆区，周日几点闭馆？</text>
+<text x="55" y="538" class="meta">《各馆开放时间表》11 月版，第 1 页 · 服务项目：场馆开放</text>
+<path d="M498 564 V692" stroke="#aec7bc"/>
+<text x="61" y="602" class="name">之江馆区</text><text x="61" y="677" style="font-size:62px;fill:#205b52;font-weight:700">17:00</text><text x="248" y="673" class="body">闭馆</text>
+<text x="526" y="602" class="name">曙光路馆区</text><text x="526" y="677" style="font-size:62px;fill:#205b52;font-weight:700">18:00</text><text x="713" y="673" class="body">闭馆</text>
+</svg>

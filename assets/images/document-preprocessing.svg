@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 525" width="920" height="525" role="img" aria-labelledby="title desc">
+<title id="title">从馆方原件到可检索的片段</title>
+<desc id="desc">教学示例。依次收集原件并登记来源、解析文件、清洗内容、分片、给片段编号并记录出处。</desc>
+<style>text{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;fill:#193b47}.label{font-size:24px;font-weight:bold}.detail{font-size:20px}.num{font-size:22px;font-weight:bold;fill:white}</style>
+<rect width="920" height="525" rx="16" fill="#faf8f1"/>
+<text x="28" y="47" font-size="31" font-weight="bold">从馆方原件到可检索的片段</text><text x="889" y="46" text-anchor="end" font-size="18">教学示例</text>
+<rect x="87" y="68" width="805" height="76" rx="12" fill="white" stroke="#ccd7d4"/><circle cx="50" cy="106" r="20" fill="#24675f"/><text x="50" y="114" text-anchor="middle" class="num">1</text><text x="108" y="98" class="label">收集原件，登记来源</text><text x="108" y="128" class="detail">保存开放时间表，记下下载页面和 11 月版的版本信息。</text>
+<path d="M50 130v36 m-6 -7 6 7 6 -7" fill="none" stroke="#50786f" stroke-width="3"/>
+<rect x="87" y="157" width="805" height="76" rx="12" fill="white" stroke="#ccd7d4"/><circle cx="50" cy="195" r="20" fill="#24675f"/><text x="50" y="203" text-anchor="middle" class="num">2</text><text x="108" y="187" class="label">解析文件，读出结构</text><text x="108" y="217" class="detail">沿着表头和所在行，读出之江馆区周日 17:00 闭馆。</text>
+<path d="M50 219v36 m-6 -7 6 7 6 -7" fill="none" stroke="#50786f" stroke-width="3"/>
+<rect x="87" y="246" width="805" height="76" rx="12" fill="white" stroke="#ccd7d4"/><circle cx="50" cy="284" r="20" fill="#24675f"/><text x="50" y="292" text-anchor="middle" class="num">3</text><text x="108" y="276" class="label">清洗内容</text><text x="108" y="306" class="detail">删去网页导航和重复页脚，留下指向《周末服务公告》的那句话。</text>
+<path d="M50 308v36 m-6 -7 6 7 6 -7" fill="none" stroke="#50786f" stroke-width="3"/>
+<rect x="87" y="335" width="805" height="76" rx="12" fill="white" stroke="#ccd7d4"/><circle cx="50" cy="373" r="20" fill="#24675f"/><text x="50" y="381" text-anchor="middle" class="num">4</text><text x="108" y="365" class="label">按内容分片</text><text x="108" y="395" class="detail">把“成人首次办证”和证件要求放在一起，短公告整段保留。</text>
+<path d="M50 397v36 m-6 -7 6 7 6 -7" fill="none" stroke="#50786f" stroke-width="3"/>
+<rect x="87" y="424" width="805" height="76" rx="12" fill="white" stroke="#ccd7d4"/><circle cx="50" cy="462" r="20" fill="#24675f"/><text x="50" y="470" text-anchor="middle" class="num">5</text><text x="108" y="454" class="label">给片段编号，记下出处</text><text x="108" y="484" class="detail">将公告片段记为 C-1，注明出自 11 月 12 日发布版的第 1 段。</text>
+</svg>

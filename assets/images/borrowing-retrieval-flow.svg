@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img">
+  <title id="title">从四份材料到借书答复</title>
+  <desc id="desc">从馆区主页补查周末公告，对照时间表与办证指南，核对适用条件并汇总有证据的答复。</desc>
+  <defs>
+    <marker id="tip" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0 L7 4 L0 8" fill="none" stroke="#557977" />
+    </marker>
+  </defs>
+  <style>text{font-family:"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#193b39}</style>
+  <rect width="1000" height="680" fill="#fcfaf4" />
+  <text x="35" y="47" font-size="24">Agent 查到的材料</text>
+  <text x="552" y="47" font-size="24">核对原文支持的事实</text>
+  <rect x="35" y="67" width="390" height="58" rx="11" fill="#f4ead3" stroke="#b6c9bf" />
+  <text x="53" y="96" font-size="19">A　馆区主页 · 周末到馆</text>
+  <path d="M80 126 V161" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <text x="95" y="151" font-size="16">沿主页提到的公告名补检</text>
+  <rect x="35" y="166" width="390" height="66" rx="11" fill="#f4ead3" stroke="#b6c9bf" />
+  <text x="53" y="195" font-size="19">C　周末服务公告 · 第 1 段</text>
+  <path d="M426 199 H545" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <text x="441" y="188" font-size="16">支持</text>
+  <rect x="552" y="166" width="415" height="66" rx="11" fill="#e3eee9" stroke="#b6c9bf" />
+  <text x="570" y="195" font-size="19">借阅柜台　16:30 停止受理</text>
+  <text x="570" y="220" font-size="17">仅适用 11 月 15 日</text>
+  <rect x="35" y="254" width="390" height="66" rx="11" fill="#f4ead3" stroke="#b6c9bf" />
+  <text x="53" y="283" font-size="19">B　开放时间表 · 之江馆区行</text>
+  <path d="M426 287 H545" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <text x="441" y="276" font-size="16">支持</text>
+  <rect x="552" y="254" width="415" height="66" rx="11" fill="#e3eee9" stroke="#b6c9bf" />
+  <text x="570" y="283" font-size="19">场馆　17:00 闭馆</text>
+  <text x="570" y="308" font-size="17">常规周日</text>
+  <rect x="35" y="342" width="390" height="66" rx="11" fill="#f4ead3" stroke="#b6c9bf" />
+  <text x="53" y="371" font-size="19">D　办证指南 · 成人首次办证条</text>
+  <path d="M426 375 H545" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <text x="441" y="364" font-size="16">支持</text>
+  <rect x="552" y="342" width="415" height="66" rx="11" fill="#e3eee9" stroke="#b6c9bf" />
+  <text x="570" y="371" font-size="19">首次办证　本人有效身份证件原件</text>
+  <text x="570" y="396" font-size="17">适用于成年申请人</text>
+  <rect x="35" y="435" width="932" height="80" rx="11" fill="#e3eee9" stroke="#b6c9bf" />
+  <text x="53" y="464" font-size="19">关联条件　同一馆区：之江馆区</text>
+  <text x="53" y="489" font-size="17">分别核对服务项目、适用日期、申请人条件和出处，再按“先办证、后借书”汇总。</text>
+  <path d="M968 199 H984" stroke="#557977" fill="none" />
+  <path d="M968 287 H984" stroke="#557977" fill="none" />
+  <path d="M968 375 H984" stroke="#557977" fill="none" />
+  <path d="M984 199 V475 H969" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <path d="M500 516 V550" fill="none" stroke="#557977" stroke-width="2" marker-end="url(#tip)" />
+  <rect x="35" y="555" width="932" height="99" rx="11" fill="#f4ead3" stroke="#b6c9bf" />
+  <text x="53" y="584" font-size="19">答复　带本人有效身份证件原件；当天借阅柜台 16:30 停止受理。</text>
+  <text x="53" y="609" font-size="17">仍待核实　首次办证几点停办、办理和排队需要多久。</text>
+  <text x="53" y="634" font-size="17">现有材料无法确定第一次去、要办完两件事的最晚到馆时间。</text>
+</svg>
