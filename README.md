@@ -30,7 +30,7 @@ WORK IN PROGRESS，目前已更新到第一章
 | 第 11 章 · 数据流与变更治理 | 从原始资料到知识库和检索索引的数据流，本体与事实的变更管理，以及更正或撤回资料后的影响分析。 |
 | 第 12 章 · 知识库交付与验收 | 第一版知识库的交付内容、使用独立材料验证查询结果与出处的方法，以及知识库重建。 |
 
-## 总体参考资料
+## 整体参考资料
 
 [1] LEWIS P, PEREZ E, PIKTUS A, et al. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)[C/OL]. Advances in Neural Information Processing Systems, 2020, 33: 9459–9474[2026-11-10].
 
